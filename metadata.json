@@ -1,0 +1,8 @@
+{
+  "name": "Remix GreenHaven Estates - Modern Eco-Villas \u0026 Real Estate",
+  "description": "Professional luxury real estate platform featuring eco-friendly villas, green landscapes, scenic roads, and peaceful living spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
